@@ -1,0 +1,68 @@
+
+body {
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.content {
+    text-align: left;
+    margin: 20px 20px 20px 20px;
+    
+}
+
+.content a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    border-radius: 10px;
+}
+
+
+table {
+    background-color: white;
+}
+
+table th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 10px;
+    align-items: center;
+    padding: 2px 5px 2px 5px;
+}
+
+th {
+    background-color: rgb(201, 201, 201);
+}
+
+.table-container {
+    margin-top: 10px;
+}
+
+
+#search {
+    margin-left: 5px;
+}
+
+.search-feature{
+    display: flex;
+    margin-top: 10px;
+}
+
+.refresh {
+    margin-left: 5px;
+}
+
+.action-container{
+    display:flex;
+}
+
+.input-search{
+    margin-left: 5px;
+}
+
+.download-container{
+    margin-top: 10px;
+}
